@@ -6,7 +6,7 @@ A driven and enthusiastic Computer Science graduate with a solid programming bac
 
 This Project involves developing a game where the player controls a growing snake that moves in a set direction. The main objectives include collecting food to increase the snake’s length while avoiding collisions with itself and the game boundaries. The project typically includes features such as user controls, score tracking, increasing difficulty, and smooth movement. 
 
-![Snake Game](https://github.com/Avinash4538/portfolio/blob/main/images/Snake%20Game.png)
+![Snake Game](C:\Users\conve\OneDrive\Desktop\SnakeGame.jpg)
 
 
 
